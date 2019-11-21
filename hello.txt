@@ -1,4 +1,5 @@
 Новая строка
 Другая строка
 
-Hello, world!
+Hello, git!
+Hello, git rebase!
